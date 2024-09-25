@@ -2,3 +2,18 @@ body {
   background-color: #eeeeee;
   font-family: "Open Sans", sans-serif;
 }
+.bgimg{
+  margin-top: 80px;
+  margin-bottom: 40px;
+}
+.container{
+  margin-top: 80px;
+  
+}
+.last{
+  text-align: center;
+  font-size: 18px;
+  font-weight: 500;
+  color: rgba(0, 0, 0, 0.581);
+  
+}
